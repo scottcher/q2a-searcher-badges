@@ -4,6 +4,7 @@ q2a-searcher-badges
 Adds "searcher" badges to Question2Answer, assuming you've installed the q2a-badges plugin, by NoahY.
 
 DETAILS:
+
 Adds Searcher, Researcher and Investigator badges awarded based on how many searches you've performed on the Question2Answer site.
 
 Award thresholds are:
