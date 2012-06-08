@@ -17,7 +17,7 @@ INSTALLATION:
 * Open your Question2Answer site, go to the Admin tab, select the Badges plugin options and enabled the three new badges.
 
 KNOWN ISSUES:
-* You may notice the badges on the admin options page show up with names other that Searcher, Researcher and Investigator.  If that happens, hit the RESET NAMES button in the Badges Option Panel.
+* You may notice the badges on the admin options page show up with names other than Searcher, Researcher and Investigator.  If that happens, hit the RESET NAMES button in the Badges Option Panel.
 
 PRE-REQUISITES:
 * requires q2a-badges plugin by NoahY
